@@ -1,1 +1,0 @@
-# Discord-logger-v2
